@@ -4,7 +4,9 @@
 
   <groupId>com.number2.www</groupId>
   <artifactId>project01</artifactId>
-  <version>1.0 </version>
+
+  <version>1.0</version>
+
   <packaging>jar</packaging>
 
   <name>project01</name>
