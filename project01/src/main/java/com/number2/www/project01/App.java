@@ -22,7 +22,9 @@ public class App
         System.out.println("喔喔喔喔喔");
 
         System.out.println( "黑灰化肥會揮發發灰黑諱為花飛；灰黑化肥會揮發發黑灰為諱飛花。" );     
-        System.out.println("喔喔喔喔喔");System.out.println("喔喔喔喔喔");
+        System.out.println("喔喔喔喔喔");
+        System.out.println("喔喔喔喔喔");
+        System.out.println("04:44");
 
 
 
