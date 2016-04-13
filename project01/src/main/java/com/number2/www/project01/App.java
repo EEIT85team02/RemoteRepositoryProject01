@@ -22,7 +22,7 @@ public class App
         
         System.out.println("hahaha90909090");
 
-
+        System.out.println("喔喔喔喔喔");
 
 
     }
