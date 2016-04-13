@@ -14,7 +14,7 @@ public class App
         System.out.println("hahaha");
 
         System.out.println( "0000000000" );     
-
+        System.out.println("哈囉");
 
 
     }
